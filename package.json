@@ -2,7 +2,7 @@
   "name": "marked-with-custom-heading-ids",
   "description": "marked-with-custom-heading-ids",
   "author": "Christopher Jeffrey",
-  "version": "0.3.6",
+  "version": "0.0.2",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
